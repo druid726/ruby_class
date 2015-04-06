@@ -1,0 +1,1 @@
+puts "First line of text in a ruby script"
